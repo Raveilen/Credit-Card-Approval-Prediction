@@ -1,0 +1,8 @@
+dataset:
+    https://www.kaggle.com/datasets/rikdifos/credit-card-approval-prediction?resource=download
+kafka setup:
+    https://developer.confluent.io/confluent-tutorials/kafka-on-docker/
+spark setup:
+    https://www.youtube.com/watch?v=dECkf00COyg
+spark image source:
+    https://github.com/Abhishek009/spark-docker

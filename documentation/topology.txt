@@ -1,0 +1,2 @@
+Data is a folder to store datase for the dockerized jupyter nb files
+Notebook folder stores ipynb notebooks for dockerized jupyter
